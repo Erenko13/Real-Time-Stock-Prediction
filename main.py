@@ -139,7 +139,6 @@ def displayClick(btn1, btn2, ticker):
     return html.Div(msg)
 
 
-
 if __name__ == '__main__':
     # starts the server
     app.run_server(debug=True)
